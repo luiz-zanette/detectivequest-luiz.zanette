@@ -1,0 +1,43 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# CMake build folders
+/build/
+cmake-build-*/
+
+# Visual Studio Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Logs
+*.log
